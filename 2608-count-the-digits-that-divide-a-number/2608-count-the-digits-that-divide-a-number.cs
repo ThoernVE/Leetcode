@@ -1,19 +1,17 @@
 public class Solution {
     public int CountDigits(int num) {
-        string numAsString = num.ToString();
-        int numbersDividable = 0;
-
-        for (int i = 0; i < numAsString.Length; i++)
+        int count=0;
+        int x=0;
+        int n=num;
+        while(num>0)
         {
-            char charNum = numAsString[i];
-            int iNum = Int32.Parse(charNum.ToString());
-           
-            if (num % iNum == 0)
+            x = num % 10;
+            num = num / 10;
+            if(n % x == 0)
             {
-                numbersDividable ++;
+                count++;
             }
         }
-       return numbersDividable;
-        
+        return count;
     }
 }
