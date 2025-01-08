@@ -4,10 +4,12 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/ThoernVE/Leetcode/tree/master/0001-two-sum) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/ThoernVE/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/ThoernVE/Leetcode/tree/master/0001-two-sum) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/ThoernVE/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Math
 |  |
