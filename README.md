@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ThoernVE/Leetcode/tree/master/0001-two-sum) |
+| [0035-search-insert-position](https://github.com/ThoernVE/Leetcode/tree/master/0035-search-insert-position) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/ThoernVE/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Hash Table
 |  |
@@ -37,4 +38,8 @@
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/ThoernVE/Leetcode/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 | [1827-invalid-tweets](https://github.com/ThoernVE/Leetcode/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/ThoernVE/Leetcode/tree/master/1908-recyclable-and-low-fat-products) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/ThoernVE/Leetcode/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
