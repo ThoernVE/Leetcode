@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/ThoernVE/Leetcode/tree/master/0001-two-sum) |
 | [0035-search-insert-position](https://github.com/ThoernVE/Leetcode/tree/master/0035-search-insert-position) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/ThoernVE/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1560-number-of-students-doing-homework-at-a-given-time](https://github.com/ThoernVE/Leetcode/tree/master/1560-number-of-students-doing-homework-at-a-given-time) |
 | [2433-best-poker-hand](https://github.com/ThoernVE/Leetcode/tree/master/2433-best-poker-hand) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ThoernVE/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -54,4 +55,8 @@
 | ------- |
 | [2433-best-poker-hand](https://github.com/ThoernVE/Leetcode/tree/master/2433-best-poker-hand) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ThoernVE/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/ThoernVE/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
