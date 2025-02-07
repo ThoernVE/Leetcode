@@ -9,6 +9,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ThoernVE/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ThoernVE/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1560-number-of-students-doing-homework-at-a-given-time](https://github.com/ThoernVE/Leetcode/tree/master/1560-number-of-students-doing-homework-at-a-given-time) |
+| [1603-running-sum-of-1d-array](https://github.com/ThoernVE/Leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/ThoernVE/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1791-richest-customer-wealth](https://github.com/ThoernVE/Leetcode/tree/master/1791-richest-customer-wealth) |
 | [2433-best-poker-hand](https://github.com/ThoernVE/Leetcode/tree/master/2433-best-poker-hand) |
@@ -102,5 +103,6 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [1603-running-sum-of-1d-array](https://github.com/ThoernVE/Leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [2714-left-and-right-sum-differences](https://github.com/ThoernVE/Leetcode/tree/master/2714-left-and-right-sum-differences) |
 <!---LeetCode Topics End-->
