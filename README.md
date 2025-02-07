@@ -28,6 +28,7 @@
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/ThoernVE/Leetcode/tree/master/0412-fizz-buzz) |
+| [2491-smallest-even-multiple](https://github.com/ThoernVE/Leetcode/tree/master/2491-smallest-even-multiple) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/ThoernVE/Leetcode/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [2748-calculate-delayed-arrival-time](https://github.com/ThoernVE/Leetcode/tree/master/2748-calculate-delayed-arrival-time) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/ThoernVE/Leetcode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
@@ -79,4 +80,8 @@
 |  |
 | ------- |
 | [1786-count-the-number-of-consistent-strings](https://github.com/ThoernVE/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
+## Number Theory
+|  |
+| ------- |
+| [2491-smallest-even-multiple](https://github.com/ThoernVE/Leetcode/tree/master/2491-smallest-even-multiple) |
 <!---LeetCode Topics End-->
