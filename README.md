@@ -11,6 +11,7 @@
 | [2433-best-poker-hand](https://github.com/ThoernVE/Leetcode/tree/master/2433-best-poker-hand) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ThoernVE/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/ThoernVE/Leetcode/tree/master/2876-number-of-employees-who-met-the-target) |
+| [3194-find-words-containing-character](https://github.com/ThoernVE/Leetcode/tree/master/3194-find-words-containing-character) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/ThoernVE/Leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/ThoernVE/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Hash Table
@@ -34,6 +35,7 @@
 | ------- |
 | [0412-fizz-buzz](https://github.com/ThoernVE/Leetcode/tree/master/0412-fizz-buzz) |
 | [0782-jewels-and-stones](https://github.com/ThoernVE/Leetcode/tree/master/0782-jewels-and-stones) |
+| [3194-find-words-containing-character](https://github.com/ThoernVE/Leetcode/tree/master/3194-find-words-containing-character) |
 ## Simulation
 |  |
 | ------- |
