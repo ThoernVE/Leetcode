@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/ThoernVE/Leetcode/tree/master/0001-two-sum) |
 | [0035-search-insert-position](https://github.com/ThoernVE/Leetcode/tree/master/0035-search-insert-position) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ThoernVE/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ThoernVE/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1560-number-of-students-doing-homework-at-a-given-time](https://github.com/ThoernVE/Leetcode/tree/master/1560-number-of-students-doing-homework-at-a-given-time) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/ThoernVE/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1791-richest-customer-wealth](https://github.com/ThoernVE/Leetcode/tree/master/1791-richest-customer-wealth) |
@@ -23,6 +24,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/ThoernVE/Leetcode/tree/master/0001-two-sum) |
 | [0782-jewels-and-stones](https://github.com/ThoernVE/Leetcode/tree/master/0782-jewels-and-stones) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ThoernVE/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/ThoernVE/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2433-best-poker-hand](https://github.com/ThoernVE/Leetcode/tree/master/2433-best-poker-hand) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/ThoernVE/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -68,6 +70,7 @@
 ## Counting
 |  |
 | ------- |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ThoernVE/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/ThoernVE/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2433-best-poker-hand](https://github.com/ThoernVE/Leetcode/tree/master/2433-best-poker-hand) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ThoernVE/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -94,6 +97,7 @@
 ## Sorting
 |  |
 | ------- |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ThoernVE/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/ThoernVE/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Prefix Sum
 |  |
