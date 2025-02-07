@@ -11,6 +11,7 @@
 | [2433-best-poker-hand](https://github.com/ThoernVE/Leetcode/tree/master/2433-best-poker-hand) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ThoernVE/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/ThoernVE/Leetcode/tree/master/2876-number-of-employees-who-met-the-target) |
+| [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/ThoernVE/Leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/ThoernVE/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Hash Table
 |  |
@@ -25,6 +26,7 @@
 | [2608-count-the-digits-that-divide-a-number](https://github.com/ThoernVE/Leetcode/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [2748-calculate-delayed-arrival-time](https://github.com/ThoernVE/Leetcode/tree/master/2748-calculate-delayed-arrival-time) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/ThoernVE/Leetcode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
+| [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/ThoernVE/Leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/ThoernVE/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## String
 |  |
