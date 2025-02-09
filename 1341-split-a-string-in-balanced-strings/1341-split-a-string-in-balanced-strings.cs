@@ -1,27 +1,26 @@
 public class Solution {
+    private ushort count=0,r=0,l=0;
     public int BalancedStringSplit(string s) {
-        ushort result = 0;
-        ushort lCount = 0;
-        ushort rCount = 0;
+
         for(ushort i = 0; i < s.Length; i++)
         {
             if(s[i] == 'R')
             {
-                rCount++;
+                l++;
             }
             else
             {
-                lCount++;
+                r++;
             }
-            if(rCount == lCount)
+            if(r == l)
             {
-                result++;
-                lCount = 0;
-                rCount = 0;
+                count++;
+                l = 0;
+                r = 0;
             }
         }
 
 
-        return result;
+        return count;
     }
 }
