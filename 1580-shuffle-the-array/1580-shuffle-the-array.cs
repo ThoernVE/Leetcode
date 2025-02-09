@@ -1,21 +1,12 @@
 public class Solution {
     public int[] Shuffle(int[] nums, int n) {
-        int[] ans  = new int[nums.Length];
-        int x = 0;
-        int y = 0;
-        for(int i = 0; i < nums.Length; i++)
+        int[] ans  = new int[n * 2];
+
+        for(int i = 0; i < n; i ++)
         {
-            
-            if(i % 2 == 0)
-            {
-                ans[i] = nums[x];
-                x++;
-            }
-            else
-            {
-                ans[i] = nums[y + (nums.Length / 2)];
-                y++;
-            }
+            ans[2 * i] = nums[i];
+            ans[2 * i + 1] = nums[i + n];
+
         }
         return ans;
     }
