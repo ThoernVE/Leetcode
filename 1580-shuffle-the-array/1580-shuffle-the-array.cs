@@ -1,6 +1,6 @@
 public class Solution {
     public int[] Shuffle(int[] nums, int n) {
-        int[] ans  = new int[n * 2];
+        int[] ans  = new int[nums.Length];
 
         for(int i = 0; i < n; i ++)
         {
