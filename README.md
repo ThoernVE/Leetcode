@@ -18,6 +18,7 @@
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ThoernVE/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2714-left-and-right-sum-differences](https://github.com/ThoernVE/Leetcode/tree/master/2714-left-and-right-sum-differences) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/ThoernVE/Leetcode/tree/master/2876-number-of-employees-who-met-the-target) |
+| [2881-split-strings-by-separator](https://github.com/ThoernVE/Leetcode/tree/master/2881-split-strings-by-separator) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/ThoernVE/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3194-find-words-containing-character](https://github.com/ThoernVE/Leetcode/tree/master/3194-find-words-containing-character) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/ThoernVE/Leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -50,6 +51,7 @@
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/ThoernVE/Leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/ThoernVE/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/ThoernVE/Leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
+| [2881-split-strings-by-separator](https://github.com/ThoernVE/Leetcode/tree/master/2881-split-strings-by-separator) |
 | [3194-find-words-containing-character](https://github.com/ThoernVE/Leetcode/tree/master/3194-find-words-containing-character) |
 ## Simulation
 |  |
