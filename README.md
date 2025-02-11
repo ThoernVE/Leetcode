@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ThoernVE/Leetcode/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/ThoernVE/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/ThoernVE/Leetcode/tree/master/0035-search-insert-position) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ThoernVE/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ThoernVE/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -78,6 +79,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/ThoernVE/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/ThoernVE/Leetcode/tree/master/0035-search-insert-position) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ThoernVE/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/ThoernVE/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
@@ -128,4 +130,8 @@
 |  |
 | ------- |
 | [3447-clear-digits](https://github.com/ThoernVE/Leetcode/tree/master/3447-clear-digits) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/ThoernVE/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
