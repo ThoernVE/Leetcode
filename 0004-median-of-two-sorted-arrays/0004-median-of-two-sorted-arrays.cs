@@ -8,12 +8,11 @@ public class Solution {
 
         if(combined.Length % 2 == 0)
         {
-            ans = (double)(combined[combined.Length/2] + combined[combined.Length/2 - 1]) / 2;
+            return (double)(combined[combined.Length/2] + combined[combined.Length/2 - 1]) / 2;
         }
         else
         {
-            ans = combined[combined.Length / 2];
+            return (double)combined[combined.Length / 2];
         }
-        return ans;
     }
 }
