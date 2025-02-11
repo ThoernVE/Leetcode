@@ -1,18 +1,23 @@
 public class Solution {
     public double FindMedianSortedArrays(int[] nums1, int[] nums2) {
+        if (nums1.Length <= 0) return GetMedian(nums2);
+if (nums2.Length <= 0) return GetMedian(nums1);
         int[] combined = nums1.Concat(nums2).ToArray();
 
         Array.Sort(combined);
 
-        double ans = 0;
+        return GetMedian(combined);
+    }
 
-        if(combined.Length % 2 == 0)
+    public double GetMedian(int[] array)
+    {
+        if(array.Length % 2 == 0)
         {
-            return (double)(combined[combined.Length/2] + combined[combined.Length/2 - 1]) / 2;
+            return (double)(array[array.Length/2] + array[array.Length/2 - 1]) / 2;
         }
         else
         {
-            return (double)combined[combined.Length / 2];
+            return (double)array[array.Length / 2];
         }
     }
 }
