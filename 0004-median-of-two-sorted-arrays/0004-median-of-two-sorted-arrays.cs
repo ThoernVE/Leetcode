@@ -9,8 +9,6 @@ public class Solution {
         if(combined.Length % 2 == 0)
         {
             ans = (double)(combined[combined.Length/2] + combined[combined.Length/2 - 1]) / 2;
-            Console.WriteLine(combined[combined.Length/2]);
-            Console.WriteLine(combined[combined.Length/2 - 1]);
         }
         else
         {
