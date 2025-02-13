@@ -25,6 +25,7 @@
 | [2881-split-strings-by-separator](https://github.com/ThoernVE/Leetcode/tree/master/2881-split-strings-by-separator) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/ThoernVE/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3194-find-words-containing-character](https://github.com/ThoernVE/Leetcode/tree/master/3194-find-words-containing-character) |
+| [3227-find-missing-and-repeated-values](https://github.com/ThoernVE/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/ThoernVE/Leetcode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/ThoernVE/Leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/ThoernVE/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -38,6 +39,7 @@
 | [2433-best-poker-hand](https://github.com/ThoernVE/Leetcode/tree/master/2433-best-poker-hand) |
 | [2448-count-number-of-bad-pairs](https://github.com/ThoernVE/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/ThoernVE/Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [3227-find-missing-and-repeated-values](https://github.com/ThoernVE/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/ThoernVE/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Math
 |  |
@@ -48,6 +50,7 @@
 | [2608-count-the-digits-that-divide-a-number](https://github.com/ThoernVE/Leetcode/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [2748-calculate-delayed-arrival-time](https://github.com/ThoernVE/Leetcode/tree/master/2748-calculate-delayed-arrival-time) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/ThoernVE/Leetcode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
+| [3227-find-missing-and-repeated-values](https://github.com/ThoernVE/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/ThoernVE/Leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/ThoernVE/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## String
@@ -106,6 +109,7 @@
 |  |
 | ------- |
 | [1791-richest-customer-wealth](https://github.com/ThoernVE/Leetcode/tree/master/1791-richest-customer-wealth) |
+| [3227-find-missing-and-repeated-values](https://github.com/ThoernVE/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 ## Bit Manipulation
 |  |
 | ------- |
