@@ -4,27 +4,20 @@ public class Solution {
         int n = grid.Length;
 
         int expectedSum = ((n*n)*((n*n)+1))/2;
-        HashSet<int> set = [];
+        int[] set = new int[n * n + 1 ];
 
-        bool japp = false;
-        foreach(int[] arr in grid)
+
+        for(int i = 0; i < n; i++)
         {
-            foreach(int num in arr)
+            for(int j = 0; j < n; j++)
             {
-                
-                if(!japp && set.Contains(num))
+                int curr = grid[i][j];
+                set[curr]++;
+                expectedSum -= curr;
+                if(set[curr] == 2)
                 {
-                    ans[0] = num;
-                    japp = true;
-                }
-                else if(!japp)
-                {
-                    set.Add(num);
-                    expectedSum -= num;
-                }
-                else
-                {
-                    expectedSum -= num;
+                    ans[0] = curr;
+                    expectedSum += curr;
                 }
             }
         }
