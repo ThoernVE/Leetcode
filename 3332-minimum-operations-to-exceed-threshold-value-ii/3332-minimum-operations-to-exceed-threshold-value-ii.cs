@@ -4,22 +4,18 @@ public class Solution {
         int count = 0;
         var minHeap = new PriorityQueue<long>();
 
-        // Add all elements to the min-heap
         foreach (var num in nums)
         {
             minHeap.Enqueue(num);
         }
 
-        // Continue until the smallest element is >= k
         while (minHeap.Count > 0 && minHeap.Peek() < k)
         {
             if (minHeap.Count < 2)
             {
-                // If there's only one element left and it's < k, we can't proceed
-                return -1; // Or handle this case as per your requirements
+                return -1;
             }
 
-            // Perform the operation
             long smallest = minHeap.Dequeue();
             long secondSmallest = minHeap.Dequeue();
             long newElement = smallest * 2 + secondSmallest;
@@ -32,7 +28,6 @@ public class Solution {
     }
 }
 
-// PriorityQueue implementation (min-heap)
 public class PriorityQueue<T> where T : IComparable<T>
 {
     private List<T> heap;
