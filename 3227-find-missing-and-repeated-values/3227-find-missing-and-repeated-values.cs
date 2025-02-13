@@ -17,9 +17,13 @@ public class Solution {
                     ans[0] = num;
                     japp = true;
                 }
-                else
+                else if(!japp)
                 {
                     set.Add(num);
+                    expectedSum -= num;
+                }
+                else
+                {
                     expectedSum -= num;
                 }
             }
