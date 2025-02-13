@@ -2,7 +2,8 @@ public class Solution {
     public int[] FindMissingAndRepeatedValues(int[][] grid) {
         int[] ans = new int[2];
         HashSet<int> hs = new HashSet<int>();
-        int max = grid.GetLength(0) * grid.GetLength(0);
+        int n = grid.GetLength(0);
+        int max = n * n;
         bool found = false;
 
         foreach(int[] arr in grid)
