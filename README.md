@@ -33,6 +33,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ThoernVE/Leetcode/tree/master/0001-two-sum) |
+| [0432-all-oone-data-structure](https://github.com/ThoernVE/Leetcode/tree/master/0432-all-oone-data-structure) |
 | [0782-jewels-and-stones](https://github.com/ThoernVE/Leetcode/tree/master/0782-jewels-and-stones) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ThoernVE/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/ThoernVE/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -151,4 +152,16 @@
 | ------- |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/ThoernVE/Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/ThoernVE/Leetcode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
+## Linked List
+|  |
+| ------- |
+| [0432-all-oone-data-structure](https://github.com/ThoernVE/Leetcode/tree/master/0432-all-oone-data-structure) |
+## Design
+|  |
+| ------- |
+| [0432-all-oone-data-structure](https://github.com/ThoernVE/Leetcode/tree/master/0432-all-oone-data-structure) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0432-all-oone-data-structure](https://github.com/ThoernVE/Leetcode/tree/master/0432-all-oone-data-structure) |
 <!---LeetCode Topics End-->
