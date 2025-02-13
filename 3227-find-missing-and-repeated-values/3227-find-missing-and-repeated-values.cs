@@ -1,38 +1,39 @@
 public class Solution {
     public int[] FindMissingAndRepeatedValues(int[][] grid) {
         int[] ans = new int[2];
-        HashSet<int> hs = new HashSet<int>();
-        int n = grid.GetLength(0);
-        int max = n * n;
-        bool found = false;
+        int max = grid.GetLength(0) * grid.GetLength(0);
+        int[] loop = new int[max];
+        int count = 0;
 
         foreach(int[] arr in grid)
         {
             foreach(int num in arr)
             {
-                if(!found && hs.Contains(num))
-                {
-                    ans[0] = num;
-                    found = true;
-                }
-                else
-                {
-                    hs.Add(num);
-                }
+                loop[count++] = num;
             }
         }
 
-        for(int i = 1; i <= max; i++)
+        Array.Sort(loop);
+        if(loop[0] == 2)
         {
-            if(hs.Contains(i))
+            ans[1] = 1;
+        }
+
+
+        for(int i = 0; i < loop.Length -1; i++)
+        {
+            if(loop[i] == loop[i + 1])
             {
-                continue;
+                ans[0] = loop[i];
             }
-            else
+            else if(loop[i + 1] > loop[i] + 1)
             {
-                ans[1] = i;
-                return ans;
+                ans[1] = loop[i] + 1;
             }
+        }
+        if(ans[1] == 0)
+        {
+            ans[1] = loop.Length;
         }
         return ans;
     }
