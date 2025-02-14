@@ -11,10 +11,11 @@ public class ProductOfNumbers {
     }
     
     public int GetProduct(int k) {
-        int sum = nums[nums.Count - 1];
+        int lastIndex = nums.Count - 1;
+        int sum = nums[lastIndex];
         for(int i = 1; i < k; i++)
         {
-            sum *= nums[nums.Count - 1 - i];
+            sum *= nums[lastIndex - i];
         }
         return sum;
     }
