@@ -52,6 +52,7 @@
 | [2491-smallest-even-multiple](https://github.com/ThoernVE/Leetcode/tree/master/2491-smallest-even-multiple) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/ThoernVE/Leetcode/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [2748-calculate-delayed-arrival-time](https://github.com/ThoernVE/Leetcode/tree/master/2748-calculate-delayed-arrival-time) |
+| [2802-find-the-punishment-number-of-an-integer](https://github.com/ThoernVE/Leetcode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/ThoernVE/Leetcode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3227-find-missing-and-repeated-values](https://github.com/ThoernVE/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/ThoernVE/Leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -172,4 +173,8 @@
 |  |
 | ------- |
 | [1477-product-of-the-last-k-numbers](https://github.com/ThoernVE/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
+## Backtracking
+|  |
+| ------- |
+| [2802-find-the-punishment-number-of-an-integer](https://github.com/ThoernVE/Leetcode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 <!---LeetCode Topics End-->
