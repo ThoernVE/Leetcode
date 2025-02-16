@@ -16,6 +16,7 @@
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/ThoernVE/Leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/ThoernVE/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1791-richest-customer-wealth](https://github.com/ThoernVE/Leetcode/tree/master/1791-richest-customer-wealth) |
+| [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/ThoernVE/Leetcode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/ThoernVE/Leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2433-best-poker-hand](https://github.com/ThoernVE/Leetcode/tree/master/2433-best-poker-hand) |
 | [2448-count-number-of-bad-pairs](https://github.com/ThoernVE/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
@@ -176,5 +177,6 @@
 ## Backtracking
 |  |
 | ------- |
+| [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/ThoernVE/Leetcode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/ThoernVE/Leetcode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 <!---LeetCode Topics End-->
