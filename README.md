@@ -8,6 +8,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/ThoernVE/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/ThoernVE/Leetcode/tree/master/0035-search-insert-position) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ThoernVE/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/ThoernVE/Leetcode/tree/master/0136-single-number) |
 | [1477-product-of-the-last-k-numbers](https://github.com/ThoernVE/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ThoernVE/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/ThoernVE/Leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
@@ -119,6 +120,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/ThoernVE/Leetcode/tree/master/0136-single-number) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/ThoernVE/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Number Theory
 |  |
