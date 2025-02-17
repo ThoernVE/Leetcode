@@ -1,5 +1,4 @@
 public class Solution {
-    public int count;
     public int NumTilePossibilities(string tiles) {
         Dictionary<string, int> dict = new Dictionary<string, int>();
         for(int i = 0; i < tiles.Length; i++)
