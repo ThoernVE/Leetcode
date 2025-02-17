@@ -6,11 +6,9 @@ public class Solution {
         int b = inputString.Length -1;
 
         while(a < b) {
-            if (inputString[a] != inputString[b]) {
+            if (inputString[a++] != inputString[b--]) {
                 return false;
             }
-            a++;
-            b--;
         }
         return true;
 
