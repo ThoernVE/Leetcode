@@ -1,5 +1,9 @@
 public class Solution {
     public bool IsPalindrome(int x) {
+        if(x < 0)
+        {
+            return false;
+        }
         string inputString = Convert.ToString(x);
 
         int a = 0;
