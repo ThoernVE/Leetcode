@@ -17,10 +17,6 @@ public class Solution {
                     list.Add((int)stk.Pop());
                 }
             }
-            else
-            {
-                continue;
-            }
         }
 
         while(stk.Count > 0)
@@ -30,6 +26,6 @@ public class Solution {
 
 
 
-        return string.Join("", list.Select(x => x.ToString()).ToArray());;
+        return string.Join("", list);
     }
 }
