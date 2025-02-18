@@ -74,6 +74,7 @@
 | [1786-count-the-number-of-consistent-strings](https://github.com/ThoernVE/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/ThoernVE/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/ThoernVE/Leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/ThoernVE/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2881-split-strings-by-separator](https://github.com/ThoernVE/Leetcode/tree/master/2881-split-strings-by-separator) |
 | [3194-find-words-containing-character](https://github.com/ThoernVE/Leetcode/tree/master/3194-find-words-containing-character) |
 | [3447-clear-digits](https://github.com/ThoernVE/Leetcode/tree/master/3447-clear-digits) |
@@ -152,11 +153,13 @@
 |  |
 | ------- |
 | [1341-split-a-string-in-balanced-strings](https://github.com/ThoernVE/Leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/ThoernVE/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 ## Stack
 |  |
 | ------- |
 | [1497-design-a-stack-with-increment-operation](https://github.com/ThoernVE/Leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/ThoernVE/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/ThoernVE/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [3447-clear-digits](https://github.com/ThoernVE/Leetcode/tree/master/3447-clear-digits) |
 ## Divide and Conquer
 |  |
@@ -190,5 +193,6 @@
 | ------- |
 | [1160-letter-tile-possibilities](https://github.com/ThoernVE/Leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/ThoernVE/Leetcode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/ThoernVE/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/ThoernVE/Leetcode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 <!---LeetCode Topics End-->
