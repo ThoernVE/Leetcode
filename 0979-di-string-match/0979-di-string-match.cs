@@ -7,11 +7,13 @@ public class Solution {
         {
             if(s[i] == 'I')
             {
-                arr[i] = lowest++;
+                arr[i] = lowest;
+                lowest++;
             }
             else
             {
-                arr[i] = highest--;
+                arr[i] = highest;
+                highest--;
             }
         }
         arr[s.Length] = lowest;
