@@ -1,16 +1,23 @@
 public class Solution {
     public int[] DiStringMatch(string s) {
-        Stack stk = new Stack();
-        List<int> list = new List<int>();
-        for(int i = 0; i < s.Length + 1; i++)
+        int[] arr = new int[s.Length + 1];
+        int lowest = 0;
+        int highest = s.Length;
+        for(int i = 0; i < s.Length; i++)
         {
-            stk.Push(i);
-            while(stk.Count > 0 && (i == s.Length || s[i] == 'I'))
+            if(s[i] == 'I')
             {
-                list.Add((int)stk.Pop());
+                arr[i] = lowest;
+                lowest++;
+            }
+            else
+            {
+                arr[i] = highest;
+                highest--;
             }
         }
+        arr[s.Length] = lowest;
 
-        return list.ToArray();
+        return arr;
     }
 }
