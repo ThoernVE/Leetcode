@@ -1,22 +1,21 @@
 public class Solution {
     public int[] DiStringMatch(string s) {
-        int[] arr = new int[s.Length + 1];
+        int n = s.Length;
         int lowest = 0;
-        int highest = s.Length;
-        for(int i = 0; i < s.Length; i++)
+        int highest = n;
+        int[] arr = new int[n + 1];
+        for(int i = 0; i < n; i++)
         {
             if(s[i] == 'I')
             {
-                arr[i] = lowest;
-                lowest++;
+                arr[i] = lowest++;
             }
             else
             {
-                arr[i] = highest;
-                highest--;
+                arr[i] = highest--;
             }
         }
-        arr[s.Length] = lowest;
+        arr[n] = lowest;
 
         return arr;
     }
