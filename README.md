@@ -10,6 +10,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ThoernVE/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/ThoernVE/Leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/ThoernVE/Leetcode/tree/master/0137-single-number-ii) |
+| [0979-di-string-match](https://github.com/ThoernVE/Leetcode/tree/master/0979-di-string-match) |
 | [1477-product-of-the-last-k-numbers](https://github.com/ThoernVE/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ThoernVE/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/ThoernVE/Leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
@@ -68,6 +69,7 @@
 | ------- |
 | [0412-fizz-buzz](https://github.com/ThoernVE/Leetcode/tree/master/0412-fizz-buzz) |
 | [0782-jewels-and-stones](https://github.com/ThoernVE/Leetcode/tree/master/0782-jewels-and-stones) |
+| [0979-di-string-match](https://github.com/ThoernVE/Leetcode/tree/master/0979-di-string-match) |
 | [1160-letter-tile-possibilities](https://github.com/ThoernVE/Leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/ThoernVE/Leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/ThoernVE/Leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
@@ -136,6 +138,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0979-di-string-match](https://github.com/ThoernVE/Leetcode/tree/master/0979-di-string-match) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/ThoernVE/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Sorting
 |  |
@@ -152,6 +155,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0979-di-string-match](https://github.com/ThoernVE/Leetcode/tree/master/0979-di-string-match) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/ThoernVE/Leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/ThoernVE/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 ## Stack
