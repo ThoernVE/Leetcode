@@ -19,7 +19,6 @@ public class Solution {
         int i = 0;
         while(i < traversal.Length)
         {
-            Console.WriteLine("In the while");
             if(traversal[i] == '-')
             {
                 dashes++;
@@ -40,7 +39,6 @@ public class Solution {
                     stk.Pop();
                 }
 
-                Console.WriteLine("FÃ¶rbi eventuell pop");
                 if(stk.Count > 0) 
                 {
                     TreeNode lastnode = (TreeNode)stk.Peek();
@@ -58,11 +56,9 @@ public class Solution {
 
                 i = j;
                 dashes = 0;
-                Console.WriteLine("Ãr nu lÃ¤ngst ned i while?");
             }
 
         }
-        Console.WriteLine("Almost there");
 
         while(stk.Count > 1)
         {
