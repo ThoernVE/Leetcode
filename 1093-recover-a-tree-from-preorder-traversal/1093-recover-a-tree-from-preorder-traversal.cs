@@ -13,7 +13,7 @@
  */
 public class Solution {
     public TreeNode RecoverFromPreorder(string traversal) {
-        Stack stk = new Stack();
+        List<TreeNode> stk = new List<TreeNode>();
         int dashes = 0;
 
         int i = 0;
@@ -36,12 +36,13 @@ public class Solution {
 
                 while(stk.Count > dashes)
                 {
-                    stk.Pop();
+                    
+                    stk.Remove(stk[stk.Count - 1]);
                 }
 
                 if(stk.Count > 0) 
                 {
-                    TreeNode lastnode = (TreeNode)stk.Peek();
+                    TreeNode lastnode = stk[stk.Count - 1];
                     if(lastnode.left == null)
                     {
                         lastnode.left = node;
@@ -52,7 +53,7 @@ public class Solution {
                     }
                 }
 
-                stk.Push(node);
+                stk.Add(node);
 
                 i = j;
                 dashes = 0;
@@ -60,11 +61,8 @@ public class Solution {
 
         }
 
-        while(stk.Count > 1)
-        {
-            stk.Pop();
-        }
 
-        return (TreeNode)stk.Pop();
+
+        return stk[0];
     }
 }
