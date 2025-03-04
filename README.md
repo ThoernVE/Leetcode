@@ -60,6 +60,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/ThoernVE/Leetcode/tree/master/0009-palindrome-number) |
+| [0050-powx-n](https://github.com/ThoernVE/Leetcode/tree/master/0050-powx-n) |
 | [0412-fizz-buzz](https://github.com/ThoernVE/Leetcode/tree/master/0412-fizz-buzz) |
 | [1477-product-of-the-last-k-numbers](https://github.com/ThoernVE/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [2448-count-number-of-bad-pairs](https://github.com/ThoernVE/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
@@ -235,4 +236,8 @@
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/ThoernVE/Leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/ThoernVE/Leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/ThoernVE/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/ThoernVE/Leetcode/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
