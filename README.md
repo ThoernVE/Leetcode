@@ -63,6 +63,7 @@
 | [0050-powx-n](https://github.com/ThoernVE/Leetcode/tree/master/0050-powx-n) |
 | [0412-fizz-buzz](https://github.com/ThoernVE/Leetcode/tree/master/0412-fizz-buzz) |
 | [1477-product-of-the-last-k-numbers](https://github.com/ThoernVE/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
+| [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/ThoernVE/Leetcode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2448-count-number-of-bad-pairs](https://github.com/ThoernVE/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2491-smallest-even-multiple](https://github.com/ThoernVE/Leetcode/tree/master/2491-smallest-even-multiple) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/ThoernVE/Leetcode/tree/master/2608-count-the-digits-that-divide-a-number) |
