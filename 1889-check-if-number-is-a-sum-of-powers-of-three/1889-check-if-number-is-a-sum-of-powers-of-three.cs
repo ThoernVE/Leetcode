@@ -1,22 +1,13 @@
 public class Solution {
     public bool CheckPowersOfThree(int n) {
-        int i = 0;
-        while(Math.Pow(3, i) < n)
+        while(n > 0)
         {
-            i++;
-        }
-
-        while(i >= 0)
-        {
-            int power = (int)Math.Pow(3, i);
-
-            if(power <= n)
+            if (n%3==2)
             {
-                n -= power;
+                return false;
             }
-            i--;
+            n/=3;
         }
-
-        return n == 0;
+        return true;
     }
 }
