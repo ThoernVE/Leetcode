@@ -19,6 +19,7 @@
 | [1560-number-of-students-doing-homework-at-a-given-time](https://github.com/ThoernVE/Leetcode/tree/master/1560-number-of-students-doing-homework-at-a-given-time) |
 | [1580-shuffle-the-array](https://github.com/ThoernVE/Leetcode/tree/master/1580-shuffle-the-array) |
 | [1603-running-sum-of-1d-array](https://github.com/ThoernVE/Leetcode/tree/master/1603-running-sum-of-1d-array) |
+| [1656-count-good-triplets](https://github.com/ThoernVE/Leetcode/tree/master/1656-count-good-triplets) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/ThoernVE/Leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/ThoernVE/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1791-richest-customer-wealth](https://github.com/ThoernVE/Leetcode/tree/master/1791-richest-customer-wealth) |
@@ -241,4 +242,8 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/ThoernVE/Leetcode/tree/master/0050-powx-n) |
+## Enumeration
+|  |
+| ------- |
+| [1656-count-good-triplets](https://github.com/ThoernVE/Leetcode/tree/master/1656-count-good-triplets) |
 <!---LeetCode Topics End-->
